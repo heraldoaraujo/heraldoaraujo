@@ -17,7 +17,9 @@
 ### 🛠️ Tecnologias & Ferramentas
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/-Spark-E25A1C?logo=apache-spark&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
 ![Redshift](https://img.shields.io/badge/-Redshift-4053D6?logo=amazon-redshift&logoColor=white)
@@ -25,8 +27,6 @@
 ![Apache Airflow](https://img.shields.io/badge/-Airflow-017CEE?logo=apache-airflow&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apache-kafka&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/-Spark-E25A1C?logo=apache-spark&logoColor=white)
 
 
 
