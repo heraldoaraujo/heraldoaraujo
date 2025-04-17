@@ -30,14 +30,16 @@
 
 
 
----
+<!-- ---
 
 ### 📈 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=heraldoaraujo&show_icons=true&theme=tokyonight" width="390" height="200" alt="Heraldo GitHub stats" style="margin-right: 30px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heraldoaraujo&layout=compact&langs_count=10&hide_progress=true&count_private=true" />
-</p>
+ docs/criando-primeira-pagina-portifolio-github
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heraldoaraujo&layout=compact&langs_count=10" width="420" height="200" alt="Linguagens mais utilizadas" />
+</p> -->
+
 
 
 
